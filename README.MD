@@ -4,7 +4,7 @@ Flappy bird game clone for browser.
 
 ## Access Link
 
-https://react-calculator-bba1.onrender.com
+https://flappy-nyfz.onrender.com
 
 ## Functionalities
 
